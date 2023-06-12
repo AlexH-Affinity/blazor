@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor.Server", "blazor\Server\blazor.Server.csproj", "{9BC4C693-F11C-4ABC-97CE-D5F2D583A860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor.Client", "blazor\Client\blazor.Client.csproj", "{C6EAB780-92F2-4DD2-89CF-74E285EAC9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor.Shared", "blazor\Shared\blazor.Shared.csproj", "{2B15E68A-8743-496B-8469-9E3A90198AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC4C693-F11C-4ABC-97CE-D5F2D583A860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC4C693-F11C-4ABC-97CE-D5F2D583A860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC4C693-F11C-4ABC-97CE-D5F2D583A860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC4C693-F11C-4ABC-97CE-D5F2D583A860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EAB780-92F2-4DD2-89CF-74E285EAC9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EAB780-92F2-4DD2-89CF-74E285EAC9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EAB780-92F2-4DD2-89CF-74E285EAC9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EAB780-92F2-4DD2-89CF-74E285EAC9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B15E68A-8743-496B-8469-9E3A90198AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B15E68A-8743-496B-8469-9E3A90198AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B15E68A-8743-496B-8469-9E3A90198AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B15E68A-8743-496B-8469-9E3A90198AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6039C0DA-C239-464D-B2A3-6C165F817FF2}
+	EndGlobalSection
+EndGlobal

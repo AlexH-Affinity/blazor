@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hL4KCAP+NGxz1sxTBtoo59lL5w46TBNU6V05mYF+7ONgCFA19e8oqa2AV/51ZeTFNDxJHuttCAnRI1p+4Dvp3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecht\\OneDrive\\Desktop\\Trabalho\\Repos\\blazor\\blazor\\blazor\\Shared\\blazor.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecht\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\hecht\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\hecht\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
